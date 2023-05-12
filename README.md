@@ -6,7 +6,7 @@
 
 ### 2. Importando os dados  
 
-Para importar os dados para o Redis, tudo o que você precisa fazer é parar o Redis e copiar diretório `dump.rbd` para o diretório pasta do seu Redis. Para encontrar o caminho desse diretório você pode usar o seguinte comando no 
+Para importar os dados para o Redis, tudo o que você precisa fazer é parar o Redis e copiar o arquivo `dump.rbd` para o diretório do seu Redis. Para encontrar o caminho desse diretório você pode usar o seguinte comando no 
 `redis-cli`:
 
 ```
